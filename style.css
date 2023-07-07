@@ -1,0 +1,30 @@
+body{
+    background-image: url(./white-horse.jpg);
+    background-color:aquamarine;
+    background-repeat: no-repeat;
+    margin-left:450px;
+    
+    
+}
+.form{
+    border:2px solid black;
+    background-image:url(./white-horse.jpg);
+    width:250px;
+    padding:10px;
+   
+    
+}
+input[type="submit"]{
+    background-color: darkgreen;
+    cursor:pointer;
+    height:20px;
+    width:200px;
+    
+
+}
+select{
+    width:170px;
+    padding:2px;
+    border:2px solid whitesmoke;
+}
+
